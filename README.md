@@ -1,5 +1,5 @@
 Repo: https://github.com/Sergey-ddbug/WorkDayPlaner
-Link:
+Link: https://sergey-ddbug.github.io/WorkDayPlaner/
 
 
 
